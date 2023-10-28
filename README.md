@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhdhungana
 - 👀 I’m interested in web application security, programming, scripting, front-end, full-stack, cyber sec stuffs, pentesting.
-- 🌱 I’m currently learning web application and mobile security
+- 🌱 I’m currently learning full stack development, web application and mobile security
 - 💞️ I’m looking to collaborate on web application and mobile security stuffs
 - 📫 How to reach me email:shubhdhungana@gmail.com
 
